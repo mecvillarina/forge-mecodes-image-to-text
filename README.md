@@ -38,16 +38,16 @@ forge tunnel
 
 - Step 1: The default UI when you first added the macro.
 
-  ![alt text](https://github.com/mecvillarina/forge-mecodes-face-detect/raw/master/assets/ss1.PNG "Screenshot 1")
+  ![alt text](https://github.com/mecvillarina/forge-mecodes-image-to-text/raw/master/assets/ss1.PNG "Screenshot 1")
 
-- Step 2: The popup will appear when you click the `Select Image` button. It will require you to add title caption and image URL path. For the Image Path, it is manual for now since Forge UI doesn't have a FilePicker yet. Click the `Process` button to process.
+- Step 2: The popup will appear when you click the `Select Image` button. It will require you to add title caption and image URL path. For the Image Path, it is manual for now since Forge UI doesn't have a FilePicker yet. Click the `Process` button to process the image.
 
-  ![alt text](https://github.com/mecvillarina/forge-mecodes-face-detect/raw/master/assets/ss2.PNG "Screenshot 2")
+  ![alt text](https://github.com/mecvillarina/forge-mecodes-image-to-text/raw/master/assets/ss2.PNG "Screenshot 2")
 
 - Step 3: After the image has been processed. It will display the resulting text. You have the option to update the text.
 
-  ![alt text](https://github.com/mecvillarina/forge-mecodes-face-detect/raw/master/assets/ss3.PNG "Screenshot 3")
+  ![alt text](https://github.com/mecvillarina/forge-mecodes-image-to-text/raw/master/assets/ss3.PNG "Screenshot 3")
 
-- Step 4: After saving the details, the end result will display on screen with the title caption and converted text You have the option to update it by clicking the `Update` button as shown in the screenshot below.
+- Step 4: After saving the details, the end result will display on screen with the title caption and converted text. You have the option to update it by clicking the `Update` button as shown in the screenshot below.
 
-  ![alt text](https://github.com/mecvillarina/forge-mecodes-face-detect/raw/master/assets/ss4.PNG "Screenshot 4")
+  ![alt text](https://github.com/mecvillarina/forge-mecodes-image-to-text/raw/master/assets/ss4.PNG "Screenshot 4")
