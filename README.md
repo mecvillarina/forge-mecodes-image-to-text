@@ -43,6 +43,7 @@ forge tunnel
 
   - Input Image
     ![alt text](https://github.com/mecvillarina/forge-mecodes-image-to-text/raw/master/assets/sample-image.png "Screenshot 2")
+
   - Step 2 Process
     ![alt text](https://github.com/mecvillarina/forge-mecodes-image-to-text/raw/master/assets/ss2.PNG "Screenshot 2")
 
