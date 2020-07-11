@@ -1,6 +1,6 @@
 # Forge - Image-To-Text
 
-This project contains a Forge app written in Typescript that extracts texts from an image. As of this moment, it only tested with `English` language. Also, this only works on Confluence. This app uses a 3rd Party API. If you're interested what's behind the 3rd Party API, the project repository can be found [here](https://github.com/mecvillarina/forge-mecodes-face-ocr-api).
+This project contains a Forge app written in Typescript that extracts texts from an image. As of this moment, it only tested with `English` language. Also, this only works on Confluence. This app uses a 3rd Party API. If you're interested to know what's behind the 3rd Party API, the project repository can be found [here](https://github.com/mecvillarina/forge-mecodes-face-ocr-api).
 
 ## Requirements
 
