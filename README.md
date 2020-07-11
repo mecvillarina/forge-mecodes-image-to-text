@@ -1,6 +1,6 @@
 # Forge - Image-To-Text
 
-This project contains a Forge app written in Typescript that extracts texts from an image. As of the moment, it only tested with `English` language. This only works on Confluence. This app uses a 3rd Party API. If you're interested what's behind the 3rd Party API, the project repository can be found [here](https://github.com/mecvillarina/forge-mecodes-face-ocr-api).
+This project contains a Forge app written in Typescript that extracts texts from an image. As of this moment, it only tested with `English` language. Also, this only works on Confluence. This app uses a 3rd Party API. If you're interested what's behind the 3rd Party API, the project repository can be found [here](https://github.com/mecvillarina/forge-mecodes-face-ocr-api).
 
 ## Requirements
 
@@ -31,8 +31,7 @@ forge tunnel
 - Use the `forge deploy` command when you want to persist code changes.
 - Use the `forge install` command when you want to install the app on a new site.
 - Once the app is installed on a site, the site picks up the new app changes you deploy without needing to rerun the install command.
-- Use the `manifest.yml` for the title of the app
-- In any confluence page, you can add the macro by typing `/forge-mecodes-image-to-text`.
+- Use the `manifest.yml` for the title of the app or you can add the macro by typing `/forge-mecodes-image-to-text` in any confluence page.
 
 ## Sample Working Output
 
@@ -42,7 +41,10 @@ forge tunnel
 
 - Step 2: The popup will appear when you click the `Select Image` button. It will require you to add title caption and image URL path. For the Image Path, it is manual for now since Forge UI doesn't have a FilePicker yet. Click the `Process` button to process the image.
 
-  ![alt text](https://github.com/mecvillarina/forge-mecodes-image-to-text/raw/master/assets/ss2.PNG "Screenshot 2")
+  - Input Image
+    ![alt text](https://github.com/mecvillarina/forge-mecodes-image-to-text/raw/master/assets/sample-image.png "Screenshot 2")
+  - Step 2 Process
+    ![alt text](https://github.com/mecvillarina/forge-mecodes-image-to-text/raw/master/assets/ss2.PNG "Screenshot 2")
 
 - Step 3: After the image has been processed. It will display the resulting text. You have the option to update the text.
 
