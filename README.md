@@ -45,6 +45,7 @@ forge tunnel
     ![alt text](https://github.com/mecvillarina/forge-mecodes-image-to-text/raw/master/assets/sample-image.png "Screenshot 2")
 
   - Step 2 Process
+
     ![alt text](https://github.com/mecvillarina/forge-mecodes-image-to-text/raw/master/assets/ss2.PNG "Screenshot 2")
 
 - Step 3: After the image has been processed. It will display the resulting text. You have the option to update the text.
