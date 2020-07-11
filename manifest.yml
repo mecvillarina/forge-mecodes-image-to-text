@@ -1,12 +1,17 @@
 modules:
   macro:
-    - key: forge-mecodes-image-to-text-hello-world
+    - key: forge-mecodes-image-to-text
       function: main
       title: forge-mecodes-image-to-text
-      description: Inserts Hello world!
+      description: Convert your image to text.
   function:
     - key: main
       handler: index.run
 app:
-  id: 'ari:cloud:ecosystem::app/b65e6beb-e5d7-44b0-8a02-0e66a8afcbb5'
+  id: "ari:cloud:ecosystem::app/b65e6beb-e5d7-44b0-8a02-0e66a8afcbb5"
   name: forge-mecodes-image-to-text
+
+permissions:
+  scopes:
+    - "read:confluence-props"
+    - "write:confluence-props"
